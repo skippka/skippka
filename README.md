@@ -17,7 +17,9 @@ Currently learning / exploring: practical machine learning workflows, data analy
 
 ## 🛠️ Skills & Technologies
 
-py,html,git,github,css,sqlite,mysql,java,cs,androidstudio,kotlin,firebase,flask,django,tensorflow,js
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,html,git,github,css,sqlite,mysql,java,cs,androidstudio,kotlin,firebase,flask,django,tensorflow,js&perline=8" />
+</p>
 
 ## 🤝 Connect with Me
 
