@@ -2,8 +2,11 @@
 
 Hi — I’m **skippka** 👨‍💻. I build projects with Python and lightweight web tech. 
 
-Role: Independent Software Developer / Open‑source Enthusiast.
+## 🤖 AI Engineer | LLM Developer | Python Developer
 
+I'm a developer from **Ukraine 🇺🇦** passionate about Artificial Intelligence, Large Language Models, Machine Learning, and Backend Development.
+
+My goal is to build intelligent systems that solve real-world problems using modern AI technologies
 
 ## 👤 About Me
 
