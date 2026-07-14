@@ -1,20 +1,21 @@
 ## Hi there! 👋
 
-Hi — I’m **skippka** 👨‍💻. I build projects with Python and lightweight web tech. 
+Hi — I’m **skippka** 👨‍💻. I build AI-powered tools, LLM applications, and backend systems with Python.
 
 ## 🤖 AI Engineer | LLM Developer | Python Developer
 
 I'm a developer from **Ukraine 🇺🇦** passionate about Artificial Intelligence, Large Language Models, Machine Learning, and Backend Development.
 
-My goal is to build intelligent systems that solve real-world problems using modern AI technologies
+My goal is to build intelligent systems that solve real-world problems using modern AI technologies.
 
 ## 👤 About Me
 
 Location: **Ukraine** 🇺🇦
 
-I’m an independent developer active on GitHub since **September 2023**. My public work focuses on Python-based projects (data / ML tooling and utilities) and simple web projects (HTML). I maintain a few repositories that explore AI utilities, mathematical/data processing for exoplanet work, and a volunteer site for Ukraine.
+I’m an independent developer active on GitHub since **September 2023**. My public work focuses on Python-based projects, AI/ML tooling, data processing utilities, and lightweight web applications.
 
 - Open to collaboration and community-focused projects. 
+- Interested in practical AI tools, LLM-powered apps, automation, and backend development.
 
 Currently learning / exploring: practical machine learning workflows, data analysis, and small web deployments.
 
