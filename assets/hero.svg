@@ -3,14 +3,14 @@
   <circle cx="32" cy="30" r="5" fill="#27272d"/>
   <circle cx="50" cy="30" r="5" fill="#27272d"/>
   <circle cx="68" cy="30" r="5" fill="#d97757"/>
-  <text x="808" y="34" text-anchor="end" fill="#6b6b73" font-family="Consolas, 'Courier New', monospace" font-size="12">ukraine · on github since 2022</text>
+  <text x="808" y="34" text-anchor="end" fill="#6b6b73" font-family="Consolas, 'Courier New', monospace" font-size="12">ukraine · since 2022</text>
 
   <circle cx="38" cy="90" r="6" fill="#d97757"/>
   <text x="56" y="99" fill="#ececef" font-family="Consolas, 'Courier New', monospace" font-size="32" font-weight="bold">skippka</text>
-  <text x="56" y="130" fill="#8a8a93" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Python Developer · AI/ML · Local Compute &amp; Desktop Systems</text>
+  <text x="56" y="130" fill="#8a8a93" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Python Developer</text>
 
   <rect x="56" y="150" width="728" height="34" rx="12" fill="#161619" stroke="#24242a" stroke-width="1"/>
   <text x="72" y="171" fill="#d97757" font-family="Consolas, 'Courier New', monospace" font-size="13" font-weight="bold">&gt;</text>
-  <text x="90" y="171" fill="#d4d4d8" font-family="Consolas, 'Courier New', monospace" font-size="13">building distributed LAN systems, AI gateways &amp; clean desktop tools</text>
-  <rect x="646" y="160" width="8" height="15" rx="2" fill="#d97757"/>
+  <text x="90" y="171" fill="#d4d4d8" font-family="Consolas, 'Courier New', monospace" font-size="13">writing clean code, shipping ideas</text>
+  <rect x="372" y="160" width="8" height="15" rx="2" fill="#d97757"/>
 </svg>

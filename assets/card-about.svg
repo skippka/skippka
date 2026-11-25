@@ -1,0 +1,9 @@
+<svg width="412" height="128" viewBox="0 0 412 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="410" height="126" rx="18" fill="#121215" stroke="#27272d" stroke-width="1.2"/>
+  <circle cx="24" cy="28" r="4.5" fill="#d97757"/>
+  <text x="37" y="33" fill="#ececef" font-family="Consolas, 'Courier New', monospace" font-size="16" font-weight="bold">about</text>
+  
+  <text x="24" y="65" fill="#a1a1aa" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5">Developer from Ukraine, active since 2022.</text>
+  <rect x="24" y="84" width="238" height="24" rx="12" fill="#1a1a1f" stroke="#26262c" stroke-width="1"/>
+  <text x="36" y="100" fill="#8a8a93" font-family="Consolas, 'Courier New', monospace" font-size="11">open to ideas &amp; collaboration</text>
+</svg>
