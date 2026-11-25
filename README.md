@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="assets/banner.svg" width="99%" alt="skippka" />
+  <img src="assets/banner-v2.svg" width="99%" alt="skippka" />
 </div>
 
 <p align="center">
