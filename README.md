@@ -1,28 +1,25 @@
-## Hi there! 👋
+<div align="center">
+  <img src="assets/hero.svg" width="840" alt="skippka" />
+</div>
 
-Hi — I’m **skippka** 👨‍💻. I build AI-powered tools, LLM applications, and backend systems with Python.
-
-## 🤖 AI Engineer | LLM Developer | Python Developer
-
-I'm a developer passionate about Artificial Intelligence, Large Language Models, Machine Learning, and Backend Development.
-
-My goal is to build intelligent systems that solve real-world problems using modern AI technologies.
-
-## 👤 About Me
-
-I’m an independent developer active on GitHub since **September 2022**. My public work focuses on Python-based projects, AI/ML tooling, data processing utilities, and lightweight web applications.
-
-- Open to collaboration and community-focused projects. 
-- Interested in practical AI tools, LLM-powered apps, automation, and backend development.
-
-Currently learning / exploring: practical machine learning workflows, data analysis, and small web deployments.
-
-## 🛠️ Skills & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,html,git,github,css,sqlite,mysql,cs,androidstudio,kotlin,firebase,flask,django,tensorflow,js&perline=8" />
+<p align="center">
+  <a href="https://github.com/skippka/cluster"><img src="assets/card-cluster.svg" width="49%" alt="cluster" /></a>
+  <a href="https://github.com/skippka/AgentProxyX"><img src="assets/card-proxy.svg" width="49%" alt="AgentProxyX" /></a>
+  <br />
+  <a href="https://github.com/skippka/dynamic-island-windows"><img src="assets/card-island.svg" width="49%" alt="dynamic-island-windows" /></a>
+  <a href="https://github.com/skippka/interviewforge-ai"><img src="assets/card-interview.svg" width="49%" alt="interviewforge-ai" /></a>
 </p>
 
-## 🤝 Connect with Me
+<div align="center">
+  <img src="assets/stack.svg" width="840" alt="tech stack" />
+</div>
 
-* **Discord:** [skippka's Profile](https://discordapp.com/users/628993927164198912)
+<p align="center">
+  <sub>
+    also:
+    <a href="https://github.com/skippka/MathMatrix_exoplanets">MathMatrix_exoplanets</a> ·
+    <a href="https://github.com/skippka/MAH_MNEMOAI">MAH_MNEMOAI</a> ·
+    <a href="https://github.com/skippka/volonteer_site_ukraine">volonteer_site_ukraine</a> ·
+    <a href="https://discordapp.com/users/628993927164198912">Discord</a>
+  </sub>
+</p>
